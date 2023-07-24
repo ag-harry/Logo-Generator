@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore the build directory
+dist/
+
+# Ignore .env file
+.env
+
+# Ignore the npm debug log
+npm-debug.log*
