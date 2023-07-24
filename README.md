@@ -47,6 +47,8 @@ bash
 node index.js
 Follow the prompts to generate your logo. The output will be saved in the ./examples directory.
 
+## Walk Through Video
+https://drive.google.com/file/d/11BEVoWeDJuYCjlm3weU0G4FF_BqKqhra/view
 ## Contribution
 This project welcomes contributions. If you find a bug or think of a new feature, feel free to create a new issue or make a pull request.
 
@@ -55,10 +57,3 @@ Contact
 For any inquiries or feedback, feel free to reach out to your-email@example.com.
 
 Enjoy creating beautiful logos with Logo Generator!
-
-
-
-
-
-
-Regenerate response
